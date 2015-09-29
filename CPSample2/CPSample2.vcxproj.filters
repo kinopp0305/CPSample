@@ -14,32 +14,14 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="ソース ファイル\1">
-      <UniqueIdentifier>{433aebcb-61ec-4ca5-bc73-6d42cef91c7a}</UniqueIdentifier>
+      <UniqueIdentifier>{6527c3af-f07e-427c-aba5-af5d2525c7df}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\hinagata2.cpp">
+    <ClCompile Include="FuncGood.cpp">
       <Filter>ソース ファイル\1</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\ManiGood.cpp">
-      <Filter>ソース ファイル\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\staticGood.cpp">
-      <Filter>ソース ファイル\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\stdGood.cpp">
-      <Filter>ソース ファイル\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\StreamGood.cpp">
-      <Filter>ソース ファイル\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\usingGood.cpp">
-      <Filter>ソース ファイル\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\FuncGood.cpp">
-      <Filter>ソース ファイル\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\CPSample\1\hinagata1.cpp">
+    <ClCompile Include="ManiGood.cpp">
       <Filter>ソース ファイル\1</Filter>
     </ClCompile>
   </ItemGroup>
